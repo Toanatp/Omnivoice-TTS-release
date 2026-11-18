@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Omnivoice Max Updates</title>
+    <link>https://raw.githubusercontent.com/Toanatp/Omnivoice-TTS-release/main/appcast.xml</link>
+    <description>Omnivoice Max release feed</description>
+    <item>
+      <title>Omnivoice Max 2.0.9</title>
+      <pubDate>Wed, 18 Nov 2026 06:09:11 +0000</pubDate>
+      <sparkle:releaseNotesLink>https://github.com/Toanatp/Omnivoice-TTS-release/releases/tag/v2.0.9</sparkle:releaseNotesLink>
+      <enclosure url="https://github.com/Toanatp/Omnivoice-TTS-release/releases/download/v2.0.9/OmnivoiceMax-2.0.9-update.ssu"
+                 sparkle:version="20009"
+                 sparkle:shortVersionString="2.0.9"
+                 sparkle:sha256="635dd93086ecb3949868a7a4fd635c34fd4bdf280c682088a12876dbfeb1d03c"
+                 sparkle:edSignature="cOHf3qx7VuWc5gW4C1MNIq2BdUx2JPMbqyvi0EFHE7rsgxKfk2mISdOZx14e75/BA51NDSN1kBZ2u36Gzcg4DQ=="
+                 sparkle:manifestSignature="xwYVKd3y/D/hD8BCF6KC6NYa7KPD5E47h4d94pOgGYhQcOWdXbt5TWhVcWszXGhGo8cNu+QTaJv2YFZK3shUDw=="
+                 length="277235911"
+                 type="application/octet-stream" />
+    </item>
+  </channel>
+</rss>

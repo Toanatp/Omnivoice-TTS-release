@@ -1,0 +1,22 @@
+{
+  "version": "2.0.9",
+  "build_number": 20009,
+  "channel": "stable",
+  "tag": "v2.0.9",
+  "stage_dir": "D:\\Tool_All\\Omnivoice-TTS\\build\\desktop-release\\v2.0.9",
+  "portable_zip": "D:\\Tool_All\\Omnivoice-TTS\\build\\desktop-release\\v2.0.9\\OmnivoiceMax-2.0.9-win64-portable.zip",
+  "update_package": "D:\\Tool_All\\Omnivoice-TTS\\build\\desktop-release\\v2.0.9\\OmnivoiceMax-2.0.9-update.ssu",
+  "appcast": "D:\\Tool_All\\Omnivoice-TTS\\build\\desktop-release\\v2.0.9\\appcast.xml",
+  "release_notes": "D:\\Tool_All\\Omnivoice-TTS\\build\\desktop-release\\v2.0.9\\release_notes.md",
+  "owner": "Toanatp",
+  "repo": "Omnivoice-TTS-release",
+  "created_at_utc": "2026-11-18T06:09:11.298890Z",
+  "assets": [
+    "D:\\Tool_All\\Omnivoice-TTS\\build\\desktop-release\\v2.0.9\\OmnivoiceMax-2.0.9-update.ssu",
+    "D:\\Tool_All\\Omnivoice-TTS\\build\\desktop-release\\v2.0.9\\OmnivoiceMax-2.0.9-win64-portable.zip",
+    "D:\\Tool_All\\Omnivoice-TTS\\build\\desktop-release\\v2.0.9\\OmnivoiceMax-2.0.9-setup.exe",
+    "D:\\Tool_All\\Omnivoice-TTS\\build\\desktop-release\\v2.0.9\\OmnivoiceMax-2.0.9-setup.manifest.json"
+  ],
+  "installer": "D:\\Tool_All\\Omnivoice-TTS\\build\\desktop-release\\v2.0.9\\OmnivoiceMax-2.0.9-setup.exe",
+  "setup_manifest": "D:\\Tool_All\\Omnivoice-TTS\\build\\desktop-release\\v2.0.9\\OmnivoiceMax-2.0.9-setup.manifest.json"
+}
